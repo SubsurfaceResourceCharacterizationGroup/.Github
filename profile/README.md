@@ -1,6 +1,6 @@
 # Subsurface Resource Characterization Group (sRCg) – IIT(ISM) Dhanbad
 
-![SRCG Logo](srcgiitism_logo.jpeg)
+<img src="srcgiitism_logo.jpeg" alt="SRCG Logo" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;" />
 
 Welcome to the official GitHub organization of the **Subsurface Resource Characterization Group (sRCg)**, part of the **Department of Applied Geophysics** at **IIT(ISM) Dhanbad**.
 
